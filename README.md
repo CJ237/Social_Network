@@ -19,8 +19,7 @@ This is a social network api that allows you to store data using mongodb.
 
 
 ### Screen Recorder link
-* https://www.awesomescreenshot.com/video/32980985?key=e27cc1066d908480a189ebf23d7a70ac
-
+* https://www.awesomescreenshot.com/video/32981141?key=59da273a8432d4ccca262533b8b5bcb3
 
 ### Author
 
